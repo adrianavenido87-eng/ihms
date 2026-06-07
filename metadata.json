@@ -1,0 +1,6 @@
+{
+  "name": "BHR Premier IHMS",
+  "description": "Luxury Integrated Hotel Management System for Room Inventory, Booking Calendars, Guest Directories, and Operational Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
